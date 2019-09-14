@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
     System.out.println("Enter any num");
-    int numIS = new Scanner(System.in).nextInt();
+    int numIs = new Scanner(System.in).nextInt();
     evenOdd(numIs);
 
     }
